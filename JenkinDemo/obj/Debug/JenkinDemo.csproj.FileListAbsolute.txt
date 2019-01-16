@@ -1,0 +1,7 @@
+D:\netJenkins\JenkinDemo\JenkinDemo\bin\Debug\JenkinDemo.exe.config
+D:\netJenkins\JenkinDemo\JenkinDemo\bin\Debug\JenkinDemo.exe
+D:\netJenkins\JenkinDemo\JenkinDemo\bin\Debug\JenkinDemo.pdb
+D:\netJenkins\JenkinDemo\JenkinDemo\obj\Debug\JenkinDemo.csprojAssemblyReference.cache
+D:\netJenkins\JenkinDemo\JenkinDemo\obj\Debug\JenkinDemo.csproj.CoreCompileInputs.cache
+D:\netJenkins\JenkinDemo\JenkinDemo\obj\Debug\JenkinDemo.exe
+D:\netJenkins\JenkinDemo\JenkinDemo\obj\Debug\JenkinDemo.pdb

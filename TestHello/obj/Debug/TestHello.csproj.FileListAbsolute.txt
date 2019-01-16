@@ -1,0 +1,17 @@
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\TestHello.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\TestHello.pdb
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\JenkinDemo.exe
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\JenkinDemo.pdb
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\JenkinDemo.exe.config
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\netJenkins\JenkinDemo\TestHello\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\netJenkins\JenkinDemo\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+D:\netJenkins\JenkinDemo\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\netJenkins\JenkinDemo\TestHello\obj\Debug\TestHello.csproj.CopyComplete
+D:\netJenkins\JenkinDemo\TestHello\obj\Debug\TestHello.dll
+D:\netJenkins\JenkinDemo\TestHello\obj\Debug\TestHello.pdb
